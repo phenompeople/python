@@ -20,15 +20,15 @@ Also, most Linux distributions have Python 3.x already installed, and all have i
 
 [![Docker Automated build](https://img.shields.io/docker/automated/phenompeople/python.svg?style=plastic)](https://hub.docker.com/r/phenompeople/python/)
 [![Docker Build Status](https://img.shields.io/docker/build/phenompeople/python.svg?style=plastic)](https://hub.docker.com/r/phenompeople/python/)
-[![JDK Docker Pulls](https://img.shields.io/docker/pulls/phenompeople/python.svg?style=plastic)](https://hub.docker.com/r/phenompeople/python/)
+[![Python Docker Pulls](https://img.shields.io/docker/pulls/phenompeople/python.svg?style=plastic)](https://hub.docker.com/r/phenompeople/python/)
 
-* **`latest`				([3.6.3/Dockerfile](https://bitbucket.org/phenompeople/python/src/master/3.6.3/Dockerfile))**
-* **`3.6.3` 				([3.6.3/Dockerfile](https://bitbucket.org/phenompeople/python/src/master/3.6.3/Dockerfile))**
-* **`2.7.13` 				([2.7.13/Dockerfile](https://bitbucket.org/phenompeople/python/src/master/2.7.13/Dockerfile))**
-* **`SPACY_EN_MD`   ([SPACY_EN_MD/Dockerfile](https://bitbucket.org/phenompeople/python/src/master/SPACY_EN_MD/Dockerfile))**
-* **`SPACY_EN_SM`   ([SPACY_EN_SM/Dockerfile](https://bitbucket.org/phenompeople/python/src/master/SPACY_EN_SM/Dockerfile))**
-* **`SPACY_EN_LG`   ([SPACY_EN_LG/Dockerfile](https://bitbucket.org/phenompeople/python/src/master/SPACY_EN_LG/Dockerfile))**
-* **`BOT_ELMO`     	([SPACY/Dockerfile](https://bitbucket.org/phenompeople/python/src/master/SPACY/Dockerfile))**
+* **`latest`				([3.6.3/Dockerfile](https://github.com/phenompeople/python/src/master/3.6.3/Dockerfile))**
+* **`3.6.3` 				([3.6.3/Dockerfile](https://github.com/phenompeople/python/src/master/3.6.3/Dockerfile))**
+* **`2.7.13` 				([2.7.13/Dockerfile](https://github.com/phenompeople/python/src/master/2.7.13/Dockerfile))**
+* **`SPACY_EN_MD`   ([SPACY_EN_MD/Dockerfile](https://github.com/phenompeople/python/src/master/SPACY_EN_MD/Dockerfile))**
+* **`SPACY_EN_SM`   ([SPACY_EN_SM/Dockerfile](https://github.com/phenompeople/python/src/master/SPACY_EN_SM/Dockerfile))**
+* **`SPACY_EN_LG`   ([SPACY_EN_LG/Dockerfile](https://github.com/phenompeople/python/src/master/SPACY_EN_LG/Dockerfile))**
+* **`BOT_ELMO`     	([SPACY/Dockerfile](https://github.com/phenompeople/python/src/master/SPACY/Dockerfile))**
 
 #### Pre-Requisites
 

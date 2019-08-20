@@ -1,4 +1,4 @@
-FROM amazonlinux
+FROM amazonlinux:2
 
 MAINTAINER paridhi "paridhimnnit@gmail.com"
 
